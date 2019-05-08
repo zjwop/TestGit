@@ -1,0 +1,3 @@
+[submodule "TestCustomView"]
+	path = TestCustomView
+	url = git@github.com:zjwop/TestCustomView.git
